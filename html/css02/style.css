@@ -1,0 +1,27 @@
+/* html/css02/style.css */
+
+h1 {
+	color: blue;
+}
+
+nav ul {
+	list-style-type: none;
+	background-color: navy;
+	padding: 5px;
+}
+
+nav ul li {
+	display: inline-block;
+}
+
+nav ul li a {
+	text-decoration: none;
+	background-color: navy;
+	color: white;
+	padding: 5px;
+}
+
+nav ul li a:hover {
+	background-color: #EADA51;
+	color: black;
+}
